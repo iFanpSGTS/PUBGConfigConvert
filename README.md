@@ -1,9 +1,9 @@
 # PUBGConfigConvert
 This app can encode and decode UserCustom.ini. Made using python
 
-#Information
+# Information
 This program is used to decode & encode UserCustom.ini in PUBG
 
-#Creator & Uploader
+# Creator & Uploader
 - NumeXx (Creator)
 - iFanpS (Uploader)
